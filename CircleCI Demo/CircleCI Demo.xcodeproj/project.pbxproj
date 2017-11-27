@@ -436,7 +436,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "aa29a851-7e17-4bea-b0e3-8f24b2398424";
 				PROVISIONING_PROFILE_SPECIFIER = "com.circlefastlanedemo AppStore";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -455,7 +455,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "aa29a851-7e17-4bea-b0e3-8f24b2398424";
 				PROVISIONING_PROFILE_SPECIFIER = "com.circlefastlanedemo AppStore";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
