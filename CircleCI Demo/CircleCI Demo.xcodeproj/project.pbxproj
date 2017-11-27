@@ -430,11 +430,12 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 5796Z84ZBE;
 				INFOPLIST_FILE = "CircleCI Demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.circlecidemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.circlefastlanedemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c0776d4a-935d-4b4a-b7ba-1e406f8cd8e0";
-				PROVISIONING_PROFILE_SPECIFIER = CircleCIDemoAppStore20Nov20;
+				PROVISIONING_PROFILE = "aa29a851-7e17-4bea-b0e3-8f24b2398424";
+				PROVISIONING_PROFILE_SPECIFIER = "com.circlefastlanedemo AppStore";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -444,15 +445,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ucreate (5796Z84ZBE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 5796Z84ZBE;
 				INFOPLIST_FILE = "CircleCI Demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.circlecidemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.circlefastlanedemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c0776d4a-935d-4b4a-b7ba-1e406f8cd8e0";
-				PROVISIONING_PROFILE_SPECIFIER = CircleCIDemoAppStore20Nov20;
+				PROVISIONING_PROFILE = "aa29a851-7e17-4bea-b0e3-8f24b2398424";
+				PROVISIONING_PROFILE_SPECIFIER = "com.circlefastlanedemo AppStore";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
